@@ -10,5 +10,8 @@ Modules used in this setup include:
 - gulp-uglify
 - vinyl-buffer
 - vinyl-source-stream
+- ** Will add an image optimizer soon!
 
-Will add an image optimizer soon!
+## SCSS
+
+If you want to include multiple SCSS files, store them in the /scss folder and '@import' them in the style.scss file.
