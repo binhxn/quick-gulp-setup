@@ -1,13 +1,20 @@
 {
-  "name": "perfect-build-tool",
+  "name": "quick-gulp-setup",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "gulp serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "bootstrap": "^3.3.6",
+    "express": "^4.14.0",
+    "jquery": "^3.1.0"
+  },
   "devDependencies": {
     "browser-sync": "^2.13.0",
     "browserify": "^13.0.1",
