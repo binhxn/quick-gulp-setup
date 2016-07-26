@@ -23,7 +23,9 @@ Will add an image optimizer soon!
 #### Build/Run local envionment
 
     $ gulp serve
+    
     or
+    
     $ npm start
 
 ## SCSS
